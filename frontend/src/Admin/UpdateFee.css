@@ -1,0 +1,65 @@
+
+.update-form-container {
+  width: 620px;
+  margin: 130px 450px;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 50px;
+  text-align: center;
+  margin-left: -40px;
+  text-align: center;
+}
+
+.frm-fee {
+  margin-bottom: 10px;
+  width: 560px;
+  margin: 130px 450px;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  padding: 40px;
+  border-radius: 8px;
+  margin-top: 10px;
+  box-shadow: 0 0 20px rgba(8, 7, 7, 0.1);
+}
+
+.form-group {
+  margin-bottom: 30px;
+  margin-left: -10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.upd-btn {
+  background-color: transparent;
+  width: 100px;
+  border: 2px solid #2196F3;
+  margin-left: -0.9px;
+  color: #2196F3;
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  outline: none;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.upd-btn:hover {
+  background-color: #2196F3;
+  color: #fff;
+}

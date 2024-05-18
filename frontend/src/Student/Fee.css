@@ -1,0 +1,55 @@
+.fee {
+  margin: 50px auto;
+  width: 80%;
+  max-width: 800px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  font-size: 18px;
+}
+
+.rule {
+  margin: 50px auto;
+  width: 80%;
+  max-width: 800px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  font-size: 18px;
+}
+
+.fee h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.fee-structure {
+  margin-bottom: 20px;
+}
+
+.room-type ul {
+  list-style: none;
+  padding: 0;
+}
+
+.room-type li {
+  margin-bottom: 10px;
+}
+
+.rules-container {
+  padding-top: 20px;
+}
+
+.rules-container h2 {
+  margin-bottom: 10px;
+}
+
+.rules-container ol {
+  padding-left: 20px;
+}
+
+.rules-container li {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,107 @@
+
+.notic-form {
+  width: 560px;
+  margin: 130px 450px;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  padding: 40px;
+  border-radius: 8px;
+  margin-top: 50px;
+  box-shadow: 0 0 20px rgba(8, 7, 7, 0.1);
+  margin-bottom: 40px;
+  margin-left: 420px;
+}
+
+input {
+  width: 500px;
+  margin-bottom: 200px;
+  padding: 10px;
+}
+
+textarea {
+  width: 550px;
+  margin-bottom: 10px;
+  padding: 10px;
+  height: 80px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 0;
+}
+h1{
+  text-align: center;
+}
+button.delete-button {
+  background-color: #dc3545;
+}
+
+button.delete-button:hover {
+  background-color: #c82333;
+}
+
+.notice-description {
+  white-space: pre-line;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-left: 420px;
+  width: 620px;
+}
+
+.titlenotice {
+  margin: 10px;
+}
+
+.notic-btn {
+  background-color: transparent;
+  width: 150px;
+  border: 2px solid #2196F3;
+  color: #2196F3;
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  outline: none;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.notic-btn:hover {
+  background-color: #2196F3;
+  color: #fff;
+}
+
+.notic-btn-del {
+  background-color: transparent;
+  width: 150px;
+  border: 2px solid #f44336;
+  color: #f44336;
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  outline: none;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-left: 420px;
+}
